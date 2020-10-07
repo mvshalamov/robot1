@@ -8,5 +8,5 @@
 - script
     - script/hello.cpp
 - world
-    - world/first_world
+    - world/first_stap
 - CMakeLists.txt
