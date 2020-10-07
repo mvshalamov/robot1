@@ -3,6 +3,8 @@
 - models
     - model/building
     - model/robot
+    - model/robot4
+    - model/robotc
 - script
     - script/hello.cpp
 - world
