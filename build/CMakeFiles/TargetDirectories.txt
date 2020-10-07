@@ -1,0 +1,3 @@
+/home/shalamovs/Desktop/robots/first_step/build/CMakeFiles/rebuild_cache.dir
+/home/shalamovs/Desktop/robots/first_step/build/CMakeFiles/hello.dir
+/home/shalamovs/Desktop/robots/first_step/build/CMakeFiles/edit_cache.dir
